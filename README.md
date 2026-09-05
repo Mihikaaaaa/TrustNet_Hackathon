@@ -49,7 +49,7 @@ A financial companion built for **irregular income**, not fixed monthly salaries
 | Layer | Technology |
 |---|---|
 | **Scam Shield (Guard)** | TF-IDF + Naive Bayes classifier, trained on hand-curated Hindi/English/Hinglish scam vs. genuine messages, layered with rule-based keyword signals for explainability |
-| **Money Coach (Coach)** | Google Gemini (`gemini-2.0-flash`) via LangChain, for plain-language conversational finance coaching |
+| **Money Coach (Coach)** | Google Gemini (`gemini-3.6-flash`) via LangChain, for plain-language conversational finance coaching |
 | **Frontend** | [Streamlit](https://streamlit.io) — lightweight, mobile-friendly, runs smoothly on low-end phones |
 | **Data** | Pandas — for tracking income/expense entries and computing savings goals |
 
