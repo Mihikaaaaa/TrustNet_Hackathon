@@ -100,30 +100,4 @@ app.py
 
 ---
 
-## 🗺️ Roadmap
-
-- **Phase 1 — Prototype (current):** Functional Scam Shield + Money Coach, fully demoable.
-- **Phase 2 — Dataset Hardening:** Expand training data with public scam-SMS datasets.
-- **Phase 3 — Feature Depth:** On-device SMS/call integration, savings streaks, personalized nudges.
-- **Phase 4 — Partnerships:** Pilot with gig platforms and microfinance NGOs to reach real first-time smartphone users.
-
----
-
-## 👥 Team — Nexgencoders
-
-| Name | Role |
-|---|---|
-| Mihika Srivastava | Team Lead |
-| Pranav Dua | AI/Backend Architect |
-| Jyoti Shokeen | Frontend Developer |
-| Akash Acharya | Data Strategist |
-| Tanmay Saraf | Project Coordinator & UI/UX |
-
----
-
-## 📜 Theme & Category
-
-**Theme:** AI for Real-World Impact
-**Category:** FinTech / Financial Inclusion
-
 > *A practical, student-driven prototype with a clear path to scalable social impact in financial inclusion.*
