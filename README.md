@@ -2,7 +2,7 @@
 
 **AI-Powered Financial Safety & Literacy Companion**
 
-TrustNet protects India's financially vulnerable — gig workers, daily-wage earners, elderly citizens, and first-time smartphone users — from scams, while teaching them to grow their money. Two problems, one app, one closed loop: **Protect → Educate → Grow**.
+TrustNet protects India's financially vulnerable gig workers, daily-wage earners, elderly citizens, and first-time smartphone users — from scams, while teaching them to grow their money. Two problems, one app, one closed loop: **Protect → Educate → Grow**.
 
 ---
 
@@ -11,9 +11,9 @@ TrustNet protects India's financially vulnerable — gig workers, daily-wage ear
 Financially vulnerable users face a two-sided crisis:
 
 - 📵 They're prime targets for **fake KYC updates, OTP theft, and fraudulent loan calls**.
-- 📉 Budgeting apps assume a fixed monthly salary — they break down for **irregular, daily, or seasonal income**.
+- 📉 Budgeting apps assume a fixed monthly salary; they break down for **irregular, daily, or seasonal income**.
 - 🗣️ Financial terms like EMI, credit score, and interest are explained in **English jargon**, excluding Hindi/Hinglish-first users.
-- 🧩 Existing apps solve only one side — scam detectors don't teach financial habits, and savings apps don't protect against fraud.
+- 🧩 Existing apps solve only one side: scam detectors don't teach financial habits, and savings apps don't protect against fraud.
 
 **TrustNet closes both loops in a single, offline-first, bilingual app.**
 
@@ -22,7 +22,7 @@ Financially vulnerable users face a two-sided crisis:
 ## 🧩 Features
 
 ### 🚨 Scam Shield
-Real-time, explainable scam detection for SMS and call transcripts — in **Hindi, English, and Hinglish**.
+Real-time, explainable scam detection for SMS and call transcripts in **Hindi, English, and Hinglish**.
 
 - Paste any message and get an instant **risk score**: ✅ Safe · 🟡 Be Careful · ⚠️ High Risk
 - **Explainable, not a black box** — see exactly *why* a message was flagged:
