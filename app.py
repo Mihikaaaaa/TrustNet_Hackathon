@@ -37,7 +37,7 @@ page = st.sidebar.radio("Go to", ["🏠 Home", "🚨 Scam Shield", "💰 Money C
 
 st.sidebar.markdown("---")
 st.sidebar.caption(
-    "Built for financially vulnerable users — gig workers, daily-wage earners, "
+    "Built for financially vulnerable users gig workers, daily-wage earners, "
     "elderly citizens, first-time smartphone users."
 )
 
@@ -60,7 +60,7 @@ def get_llm():
     needed (Scam Shield doesn't need it, keeps startup fast)."""
     from langchain_google_genai import ChatGoogleGenerativeAI
     return ChatGoogleGenerativeAI(
-        model="gemini-2.0-flash",
+        model="gemini-3.5-flash",
         google_api_key=api_key,
         temperature=0.4,
     )
